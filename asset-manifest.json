@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cutshort-assignment/static/css/main.f3453adb.chunk.css",
+    "main.js": "/cutshort-assignment/static/js/main.3a985228.chunk.js",
+    "main.js.map": "/cutshort-assignment/static/js/main.3a985228.chunk.js.map",
+    "runtime-main.js": "/cutshort-assignment/static/js/runtime-main.7621a29c.js",
+    "runtime-main.js.map": "/cutshort-assignment/static/js/runtime-main.7621a29c.js.map",
+    "static/js/2.5a5884c0.chunk.js": "/cutshort-assignment/static/js/2.5a5884c0.chunk.js",
+    "static/js/2.5a5884c0.chunk.js.map": "/cutshort-assignment/static/js/2.5a5884c0.chunk.js.map",
+    "index.html": "/cutshort-assignment/index.html",
+    "static/css/main.f3453adb.chunk.css.map": "/cutshort-assignment/static/css/main.f3453adb.chunk.css.map",
+    "static/js/2.5a5884c0.chunk.js.LICENSE.txt": "/cutshort-assignment/static/js/2.5a5884c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7621a29c.js",
+    "static/js/2.5a5884c0.chunk.js",
+    "static/css/main.f3453adb.chunk.css",
+    "static/js/main.3a985228.chunk.js"
+  ]
+}
